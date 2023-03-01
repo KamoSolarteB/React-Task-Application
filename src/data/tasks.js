@@ -1,17 +1,17 @@
 export const tasks = [
   {
     id: 0,
-    title: "Mi first task",
+    title: "My first task",
     description: "Mi first task",
   },
   {
     id: 1,
-    title: "Mi second task",
+    title: "My second task",
     description: "Mi second task",
   },
   {
     id: 2,
-    title: "Mi third task",
+    title: "My third task",
     description: "Mi third task",
   },
 ];
